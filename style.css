@@ -1,0 +1,14 @@
+#imagem-canto-esquerdo {
+    position: absolute; /* Define posicionamento absoluto */
+    left: 0; /* Alinha a imagem ao canto esquerdo */
+    top: 0; /* Opcional: Alinha a imagem ao topo da tela */
+    width: 300px; /* Defina a largura desejada */
+    height: auto; /* Mantém a proporção original da imagem */
+
+}
+body{
+    background-color: black;
+}
+#teste{
+    margin-top: 50px!important;;
+}
